@@ -28,16 +28,16 @@ disposal. All acquisitions should be approved by the Executive Director.
 To the extent possible, a request for an acquisition must be submitted
 at least 10 days before the resource must be ordered. A comparative
 analysis of available resources should be completed prior to
-procurement. The procurement of resources that cost more than \$2000
+procurement. The procurement of resources that cost more than \$10,000
 must follow a formal bidding or quote process to ensure that the
 resource is acquired at a competitive price.
 
--   Purchases under the micro-purchase threshold, currently \$3500, are
+-   Purchases under the micro-purchase threshold, currently \$10,000, are
     awarded without soliciting competitive quotes; however, to the
     extent possible, prices are shopped using online and/or local
     stores.
 
--   For purchases above \$3500 and below \$150,000, a quotation/invoice
+-   For purchases above \$10,000 and below \$150,000, a quotation/invoice
     shall be obtained from two-three qualified sources or from as wide
     of a range of suppliers deemed practical in terms of time,
     potential savings and good business practice. Four major factors
